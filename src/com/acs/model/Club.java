@@ -8,6 +8,9 @@ public class Club {
 	//2eme commit dans branche GestionClub
 	private String dateCreation;
 	
+	//3eme commit dans branche GestionClub
+	private String nomPresident;
+	
 	public void Club(){
 		
 	}
