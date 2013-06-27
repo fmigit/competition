@@ -4,15 +4,14 @@ public class Club {
 
 	//1er commit dans branche GestionClub
 	private String nom;
-	
+
 	//2eme commit dans branche GestionClub
 	private String dateCreation;
-	
-	//3eme commit dans branche GestionClub
-	private String nomPresident;
-	
+
+    private String description;
+
 	public void Club(){
-		
+
 	}
-	
+
 }
