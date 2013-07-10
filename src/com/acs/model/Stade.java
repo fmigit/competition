@@ -4,7 +4,7 @@ public class Stade {
 	
 	private String adresse;
 	private Integer capacite;
-	private String test112;
+	private String test23;
 	
 	public Stade(){
 		
