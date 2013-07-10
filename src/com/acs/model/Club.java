@@ -9,6 +9,8 @@ public class Club {
 	private String dateCreation;
 
     private String description;
+    
+    private int nbrJouers;
 
 	public void Club(){
 
