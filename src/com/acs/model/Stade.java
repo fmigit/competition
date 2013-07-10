@@ -6,6 +6,9 @@ public class Stade {
 	private Integer capacite;
 	private String test45;
 	
+	
+	
+	
 	public Stade(){
 		
 	}
